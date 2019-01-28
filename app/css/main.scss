@@ -1,0 +1,16 @@
+
+/* reset */
+@import 'reset';
+
+/* main */
+body {
+     background: #000;
+     color: white;
+
+     a {
+          text-decoration: none;
+          -webkit-transform: translate(10px, 5px);
+          -ms-transform: translate(10px, 5px);
+          transform: translate(10px, 5px);
+     }
+}

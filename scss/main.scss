@@ -1,0 +1,14 @@
+
+/* reset */
+@import 'reset';
+
+/* main */
+body {
+     background: #000;
+     color: white;
+
+     a {
+          text-decoration: none;
+          transform: translate(10px, 5px);
+     }
+}
